@@ -38,7 +38,7 @@ As the objective of our hackathon was to reach out to San Diegan high school stu
 | -----------: | ------------: | ----------: | ----: |
 |            0 |            69 |           0 |     0 |
 
-![image-20220530225228330](/home/rlay/.var/app/io.typora.Typora/config/Typora/typora-user-images/image-20220530225228330.png)
+![demographics-dataframe](./images/df-demo.png)
 
 ## Impact of GitHub Grant
 
@@ -58,39 +58,39 @@ While all the projects can be found on our [devpost gallery](https://tritonhacks
 
 All of the photos can be found on our [public album](https://drive.google.com/drive/folders/1rWoChMY2Ug0_najx8bfldixXFjKb0A0u) but here's a few highlights!
 
-| ![1-opening](./1-opening.png) |
+| ![1-opening](./images/1-opening.png) |
 | :---------------------------: |
 |     **Opening Ceremony**      |
 
-| ![2-hackers](./2-hackers.png) |
+| ![2-hackers](./images/2-hackers.png) |
 | :---------------------------: |
 |   **Hackers hard at work!**   |
 
-| ![3-workshop](3-workshop.png) |
+| ![3-workshop](./images/3-workshop.png) |
 | :---------------------------: |
 |       **Workshopping**        |
 
-| ![4-posing](./4-posing.png) |
+| ![4-posing](./images/4-posing.png) |
 | :-------------------------: |
 |         **Posing**          |
 
-|       ![5-volunteer](./5-volunteer.png)        |
+|       ![5-volunteer](./images/5-volunteer.png)        |
 | :--------------------------------------------: |
 | **Volunteer coordinator poking at the camera** |
 
-|      ![6-tutor](./6-tutor.png)      |
+|      ![6-tutor](./images/6-tutor.png)      |
 | :---------------------------------: |
 | **Tutor doing what tutors do best** |
 
-| ![7-refuel](./7-refuel.png) |
+| ![7-refuel](./images/7-refuel.png) |
 | :-------------------------: |
 |     **Time to refuel!**     |
 
-| ![9-judge](./9-judge.jpg) |
+| ![9-judge](./images/9-judge.jpg) |
 | :-----------------------: |
 |        **Judging**        |
 
-| ![8-girls](./8-girls.png) |
+| ![8-girls](./images/8-girls.png) |
 | :-----------------------: |
 |    **Girls that code**    |
 
